@@ -1,0 +1,49 @@
+1. Open http://rozetka.com.ua/ 
+
+3. Verify the page
+
+4. Click "Вход в интернет магазин"
+
+5. Click  "Войти как пользователь" (use Facebook or VK)
+
+6. Login using your credentials
+
+5.Verify that your First and Last Name appeared on the top right corner
+
+6. Click your First and Last Name
+
+7.  Verify  - Мои настройки page is opened,   Ваше имя and Электронная почтa are valid
+
+8. Click Редактировать личные данные,
+
+9. Verify that page is Редактирование 
+
+10. Change delivery address to Город - Киев, Улица- Полевая, номер дома - 24 фтв click save
+
+and verify that data has saved
+ 
+11. Click at  Список Желаний  -> Click  Создать новый список 
+
+12. Inside write Хочу Sony Xperia Z2 D6502 Black
+
+13. Verify that Sony Xperia Z2 D6502 Black wish appeared 
+
+14.In the search field search for Sony Xperia Z2 D6502 Black
+
+15. On the result page verify that Sony Xperia Z2 D6502 Black is found
+
+16. Open Sony Xperia Z2 D6502 Black url
+
+17 Click Купить
+
+18. Verify that Sony Xperia Z2 D6502 Black i appeared in the recycle 
+
+19. Click cancel sign near the product and verify that the recycle is empty
+
+20. Close and verify that  Корзина пуста 
+
+21 Log out 
+
+22. Verify that you r not logged on and on the page http://rozetka.com.ua/ 
+
+Have fun! 
